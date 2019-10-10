@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1552988955 source:u:\cs319\lab6\matrix08.cpp
+	<iostream>
+	"Vector08.h"
+	"Matrix08.h"
+
+1552988955 u:\cs319\lab6\vector08.h
+
+1552988955 u:\cs319\lab6\matrix08.h
+	"Vector08.h"
+
+1552989208 source:u:\cs319\lab6\runjacobi.cpp
+	<iostream>
+	<stdlib.h>
+	"Vector08.h"
+	"Matrix08.h"
+
+1552988955 source:u:\cs319\lab6\vector08.cpp
+	<iostream>
+	<math.h>
+	"Vector08.h"
+

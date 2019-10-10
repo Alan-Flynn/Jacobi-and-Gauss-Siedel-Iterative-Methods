@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1551783626 source:u:\cs319\lab5\03jacobi.cpp
+	<iostream>
+	<stdlib.h>
+	"Vector.h"
+	"Matrix.h"
+
+1551777674 u:\cs319\lab5\vector.h
+
+1551777648 u:\cs319\lab5\matrix.h
+
+1551777636 source:u:\cs319\lab5\matrix.cpp
+	<iostream>
+	"Matrix.h"
+
+1551777661 source:u:\cs319\lab5\vector.cpp
+	<iostream>
+	<math.h>
+	"Vector.h"
+
+1552993149 source:u:\cs319\labs\lab5\matrix.cpp
+	<iostream>
+	"Vector.h"
+	"Matrix.h"
+
+1552990859 u:\cs319\labs\lab5\matrix.h
+	"Vector.h"
+
+1552989567 source:u:\cs319\labs\lab5\vector.cpp
+	<iostream>
+	<math.h>
+	"Vector.h"
+
+1552989930 u:\cs319\labs\lab5\vector.h
+
+1553595268 source:u:\cs319\labs\lab5\03jacobi.cpp
+	<iostream>
+	<stdlib.h>
+	"Vector.h"
+	"Matrix.h"
+	<cmath>
+
